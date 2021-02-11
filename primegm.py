@@ -19,7 +19,7 @@ while t:
     n = int(n)
     k = int(k)
     if p[n] > k:
-        print("Divyam\n")
+        print("Divyam")
     else:
-        print("Chef\n")
+        print("Chef")
     t -= 1
